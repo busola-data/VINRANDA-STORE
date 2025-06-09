@@ -60,5 +60,8 @@ TOP 5 QUANTITY PURCHASED PER SEX
 
 
 
+<img width="533" alt="Screenshot 2025-06-08 155747" src="https://github.com/user-attachments/assets/316143ed-2494-406d-8be8-7fe1f365c17d" />
+
+
   
 
